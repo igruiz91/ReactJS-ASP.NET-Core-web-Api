@@ -1,5 +1,5 @@
 #
-# .Net Core Web Api + ReactJS + Bootstrap
+# .Net Core Web Api + ReactJS + Bootstrap + Microsoft SQL
 
 ![](/app-client/images/tecnologies.jpg)
 
