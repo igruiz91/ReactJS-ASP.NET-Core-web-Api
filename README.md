@@ -1,11 +1,13 @@
 #
-# .Net Core Web Api + ReactJS
+# .Net Core Web Api + ReactJS + Bootstrap
+
+![](/app-client/images/tecnologies.jpg)
 
 
+# App View
 ![](/app-client/images/employee.png)
-#### 1- Employee view
+##### 1- Employee view
 
-#
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
